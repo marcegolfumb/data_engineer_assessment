@@ -25,3 +25,4 @@ fear-and-greed==0.4
 prettytable
 yfinance==0.2.66
 ollama==0.6.0
+pyarrow==23.0.1
